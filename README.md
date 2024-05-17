@@ -1,4 +1,4 @@
 # gitlek
 
-User story: Bold text
-User story: Picture
+#User story: Bold text
+##User story: Picture
