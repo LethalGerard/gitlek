@@ -2,5 +2,6 @@
 
 # User story: Bold text
 ## User story: Picture
-<h3>User story: Links<h3>
+### User story: Links
 #### User story: LIA
+### iser Story: Images
